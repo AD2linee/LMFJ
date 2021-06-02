@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: fc93f3592f31ab9429467133e78f42e0
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4218828863298608613
+    second: Carnet_ouvert.001|armrest_2|Take 001|BaseLayer
+  - first:
+      74: 6255968198744297461
+    second: Carnet_ouvert.001|armrest_down_2|Take 001|BaseLayer
+  - first:
+      74: -6023952033402504354
+    second: Carnet_ouvert.001|armrest_down|Take 001|BaseLayer
+  - first:
+      74: -2760155392895433989
+    second: Carnet_ouvert.001|armrest|Take 001|BaseLayer
+  - first:
+      74: 3964875749006124068
+    second: Carnet_ouvert.001|Box_up|Take 001|BaseLayer
+  - first:
+      74: -217571390951368452
+    second: Carnet_ouvert.001|Camera.001|Camera|armrest_2|Take 001|BaseLayer|Camera|armrest_2
+  - first:
+      74: 1728418798811237928
+    second: Carnet_ouvert.001|Camera.001|Camera|armrest_down_2|Take 001|BaseLayer|Camera|armr
+  - first:
+      74: 5377093724051444859
+    second: Carnet_ouvert.001|Camera.001|Camera|armrest_down|Take 001|BaseLayer|Camera|armres
+  - first:
+      74: -6302630854005453116
+    second: Carnet_ouvert.001|Camera.001|Camera|armrest|Take 001|BaseLayer|Camera|armrest|Tak
+  - first:
+      74: 8259138807224541660
+    second: 'Carnet_ouvert.001|Camera.001|Camera|Box_up|Take 001|BaseLayer|Camera|Box_up|Take '
+  - first:
+      74: 4664562711289603625
+    second: Carnet_ouvert.001|Camera.001|Camera|CameraAction|Camera|CameraAction
+  - first:
+      74: -7111803774567777290
+    second: Carnet_ouvert.001|Camera.001|Camera|Chair_down|Take 001|BaseLayer|Camera|Chair_do
+  - first:
+      74: 7246609877347206827
+    second: Carnet_ouvert.001|Camera.001|Camera|Chair_tube|Take 001|BaseLayer|Camera|Chair_tu
+  - first:
+      74: -8052213742425513812
+    second: Carnet_ouvert.001|Camera.001|Camera|Chair_up|Take 001|BaseLayer|Camera|Chair_up|T
+  - first:
+      74: -2845671602906929222
+    second: Carnet_ouvert.001|Camera.001|Camera|implement_2|Take 001|BaseLayer|Camera|impleme
+  - first:
+      74: 5139261651817835508
+    second: Carnet_ouvert.001|Camera.001|Camera|implement_3|Take 001|BaseLayer|Camera|impleme
+  - first:
+      74: -69832579744310846
+    second: Carnet_ouvert.001|Camera.001|Camera|implement|Take 001|BaseLayer|Camera|implement
+  - first:
+      74: 4400142736674029680
+    second: 'Carnet_ouvert.001|Camera.001|Camera|locker|Take 001|BaseLayer|Camera|locker|Take '
+  - first:
+      74: -3006228693396829182
+    second: Carnet_ouvert.001|Camera.001|Camera|roller.001|Take 001|BaseLayer|Camera|roller.0
+  - first:
+      74: 8693561765368767273
+    second: Carnet_ouvert.001|Camera.001|Camera|roller2.001|Take 001|BaseLayer|Camera|roller2
+  - first:
+      74: 6815114283963511794
+    second: Carnet_ouvert.001|Camera.001|Camera|roller2|Take 001|BaseLayer|Camera|roller2|Tak
+  - first:
+      74: 5943184287745456786
+    second: Carnet_ouvert.001|Camera.001|Camera|roller3.001|Take 001|BaseLayer|Camera|roller3
+  - first:
+      74: 2586986679773431921
+    second: Carnet_ouvert.001|Camera.001|Camera|roller3|Take 001|BaseLayer|Camera|roller3|Tak
+  - first:
+      74: 5187597969810832552
+    second: Carnet_ouvert.001|Camera.001|Camera|roller4.001|Take 001|BaseLayer|Camera|roller4
+  - first:
+      74: 7302345737147255730
+    second: Carnet_ouvert.001|Camera.001|Camera|roller4|Take 001|BaseLayer|Camera|roller4|Tak
+  - first:
+      74: -2407534996314152370
+    second: Carnet_ouvert.001|Camera.001|Camera|roller5.001|Take 001|BaseLayer|Camera|roller5
+  - first:
+      74: -6450724133759768793
+    second: Carnet_ouvert.001|Camera.001|Camera|roller5|Take 001|BaseLayer|Camera|roller5|Tak
+  - first:
+      74: 3207341582148687789
+    second: 'Carnet_ouvert.001|Camera.001|Camera|roller|Take 001|BaseLayer|Camera|roller|Take '
+  - first:
+      74: -1134373851882147330
+    second: Carnet_ouvert.001|Camera.001|Camera|tube_down|Take 001|BaseLayer|Camera|tube_down
+  - first:
+      74: 1726434231735366474
+    second: Carnet_ouvert.001|Camera.002|Camera|armrest_2|Take 001|BaseLayer|Camera|armre
+  - first:
+      74: -4088856250638523116
+    second: Carnet_ouvert.001|Camera.002|Camera|armrest_down_2|Take 001|BaseLayer|Camera|
+  - first:
+      74: 8986305449112235232
+    second: Carnet_ouvert.001|Camera.002|Camera|armrest_down|Take 001|BaseLayer|Camera|ar
+  - first:
+      74: -4507408183249714956
+    second: Carnet_ouvert.001|Camera.002|Camera|armrest|Take 001|BaseLayer|Camera|armrest
+  - first:
+      74: -7051944435772012317
+    second: Carnet_ouvert.001|Camera.002|Camera|Box_up|Take 001|BaseLayer|Camera|Box_up|T
+  - first:
+      74: -956994190459508822
+    second: Carnet_ouvert.001|Camera.002|Camera|CameraAction.001|Camera|CameraAction.001
+  - first:
+      74: 1862874397544317496
+    second: Carnet_ouvert.001|Camera.002|Camera|Chair_down|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: -8062829241424185265
+    second: Carnet_ouvert.001|Camera.002|Camera|Chair_tube|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: 5544574837442894935
+    second: Carnet_ouvert.001|Camera.002|Camera|Chair_up|Take 001|BaseLayer|Camera|Chair_
+  - first:
+      74: -4779754331052191418
+    second: Carnet_ouvert.001|Camera.002|Camera|implement_2|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: 2790176123391542379
+    second: Carnet_ouvert.001|Camera.002|Camera|implement_3|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: 5107527237790493154
+    second: Carnet_ouvert.001|Camera.002|Camera|implement|Take 001|BaseLayer|Camera|imple
+  - first:
+      74: -5721490030482409551
+    second: Carnet_ouvert.001|Camera.002|Camera|locker|Take 001|BaseLayer|Camera|locker|T
+  - first:
+      74: 8803169040643657041
+    second: Carnet_ouvert.001|Camera.002|Camera|roller.001|Take 001|BaseLayer|Camera|roll
+  - first:
+      74: 5094673428961697613
+    second: Carnet_ouvert.001|Camera.002|Camera|roller2.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: 2002303397351354474
+    second: Carnet_ouvert.001|Camera.002|Camera|roller2|Take 001|BaseLayer|Camera|roller2
+  - first:
+      74: 1856408726640230402
+    second: Carnet_ouvert.001|Camera.002|Camera|roller3.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: 3483893521227944143
+    second: Carnet_ouvert.001|Camera.002|Camera|roller3|Take 001|BaseLayer|Camera|roller3
+  - first:
+      74: 5170033654541563513
+    second: Carnet_ouvert.001|Camera.002|Camera|roller4.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -8543529701059211438
+    second: Carnet_ouvert.001|Camera.002|Camera|roller4|Take 001|BaseLayer|Camera|roller4
+  - first:
+      74: 1167839154980210018
+    second: Carnet_ouvert.001|Camera.002|Camera|roller5.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -7314865048195387751
+    second: Carnet_ouvert.001|Camera.002|Camera|roller5|Take 001|BaseLayer|Camera|roller5
+  - first:
+      74: -242365735051812904
+    second: Carnet_ouvert.001|Camera.002|Camera|roller|Take 001|BaseLayer|Camera|roller|T
+  - first:
+      74: 8924345702082708237
+    second: Carnet_ouvert.001|Camera.002|Camera|tube_down|Take 001|BaseLayer|Camera|tube_
+  - first:
+      74: 4776583771007102998
+    second: Carnet_ouvert.001|Camera.003|Camera|armrest_2|Take 001|BaseLayer|Camera|armre
+  - first:
+      74: -7180994115021904663
+    second: Carnet_ouvert.001|Camera.003|Camera|armrest_down_2|Take 001|BaseLayer|Camera|
+  - first:
+      74: -4667675833990143084
+    second: Carnet_ouvert.001|Camera.003|Camera|armrest_down|Take 001|BaseLayer|Camera|ar
+  - first:
+      74: -9101994368738594571
+    second: Carnet_ouvert.001|Camera.003|Camera|armrest|Take 001|BaseLayer|Camera|armrest
+  - first:
+      74: 2851586719571764564
+    second: Carnet_ouvert.001|Camera.003|Camera|Box_up|Take 001|BaseLayer|Camera|Box_up|T
+  - first:
+      74: 4300827773415893803
+    second: Carnet_ouvert.001|Camera.003|Camera|CameraAction.003|Camera|CameraAction.003
+  - first:
+      74: -6043594487886057275
+    second: Carnet_ouvert.001|Camera.003|Camera|Chair_down|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: -7052226120465876850
+    second: Carnet_ouvert.001|Camera.003|Camera|Chair_tube|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: -7020327163776435267
+    second: Carnet_ouvert.001|Camera.003|Camera|Chair_up|Take 001|BaseLayer|Camera|Chair_
+  - first:
+      74: 5524454567879446236
+    second: Carnet_ouvert.001|Camera.003|Camera|implement_2|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: -1064773799256188996
+    second: Carnet_ouvert.001|Camera.003|Camera|implement_3|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: 5634761316649274175
+    second: Carnet_ouvert.001|Camera.003|Camera|implement|Take 001|BaseLayer|Camera|imple
+  - first:
+      74: -1211399533857829449
+    second: Carnet_ouvert.001|Camera.003|Camera|locker|Take 001|BaseLayer|Camera|locker|T
+  - first:
+      74: -1332306735329024378
+    second: Carnet_ouvert.001|Camera.003|Camera|roller.001|Take 001|BaseLayer|Camera|roll
+  - first:
+      74: 1789507542973175306
+    second: Carnet_ouvert.001|Camera.003|Camera|roller2.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -7064330519835519694
+    second: Carnet_ouvert.001|Camera.003|Camera|roller2|Take 001|BaseLayer|Camera|roller2
+  - first:
+      74: 7348245810533445878
+    second: Carnet_ouvert.001|Camera.003|Camera|roller3.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -7283931446363975052
+    second: Carnet_ouvert.001|Camera.003|Camera|roller3|Take 001|BaseLayer|Camera|roller3
+  - first:
+      74: 5437565056681828660
+    second: Carnet_ouvert.001|Camera.003|Camera|roller4.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: 4459523671722411606
+    second: Carnet_ouvert.001|Camera.003|Camera|roller4|Take 001|BaseLayer|Camera|roller4
+  - first:
+      74: 5341755236207402222
+    second: Carnet_ouvert.001|Camera.003|Camera|roller5.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -1295469173095623916
+    second: Carnet_ouvert.001|Camera.003|Camera|roller5|Take 001|BaseLayer|Camera|roller5
+  - first:
+      74: 4133749670402234604
+    second: Carnet_ouvert.001|Camera.003|Camera|roller|Take 001|BaseLayer|Camera|roller|T
+  - first:
+      74: -5750651311807919008
+    second: Carnet_ouvert.001|Camera.003|Camera|tube_down|Take 001|BaseLayer|Camera|tube_
+  - first:
+      74: -5823266794547488035
+    second: Carnet_ouvert.001|Camera.004|Camera|armrest_2|Take 001|BaseLayer|Camera|armre
+  - first:
+      74: 8050029155738120183
+    second: Carnet_ouvert.001|Camera.004|Camera|armrest_down_2|Take 001|BaseLayer|Camera|
+  - first:
+      74: 187776754168146263
+    second: Carnet_ouvert.001|Camera.004|Camera|armrest_down|Take 001|BaseLayer|Camera|ar
+  - first:
+      74: -774277316871629313
+    second: Carnet_ouvert.001|Camera.004|Camera|armrest|Take 001|BaseLayer|Camera|armrest
+  - first:
+      74: 976972293172148567
+    second: Carnet_ouvert.001|Camera.004|Camera|Box_up|Take 001|BaseLayer|Camera|Box_up|T
+  - first:
+      74: -2555646084906092660
+    second: Carnet_ouvert.001|Camera.004|Camera|CameraAction.001|Camera|CameraAction.001
+  - first:
+      74: -649224084806810447
+    second: Carnet_ouvert.001|Camera.004|Camera|Chair_down|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: 4740838349468949269
+    second: Carnet_ouvert.001|Camera.004|Camera|Chair_tube|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: -7822445685489399609
+    second: Carnet_ouvert.001|Camera.004|Camera|Chair_up|Take 001|BaseLayer|Camera|Chair_
+  - first:
+      74: 3464360776793880934
+    second: Carnet_ouvert.001|Camera.004|Camera|implement_2|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: 254151711125242912
+    second: Carnet_ouvert.001|Camera.004|Camera|implement_3|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: 4471591626410304417
+    second: Carnet_ouvert.001|Camera.004|Camera|implement|Take 001|BaseLayer|Camera|imple
+  - first:
+      74: -1326228088912852185
+    second: Carnet_ouvert.001|Camera.004|Camera|locker|Take 001|BaseLayer|Camera|locker|T
+  - first:
+      74: 313882216068404867
+    second: Carnet_ouvert.001|Camera.004|Camera|roller.001|Take 001|BaseLayer|Camera|roll
+  - first:
+      74: 1257595077660603799
+    second: Carnet_ouvert.001|Camera.004|Camera|roller2.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -7809848162565458493
+    second: Carnet_ouvert.001|Camera.004|Camera|roller2|Take 001|BaseLayer|Camera|roller2
+  - first:
+      74: 8955632204617069718
+    second: Carnet_ouvert.001|Camera.004|Camera|roller3.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -2008142849706298697
+    second: Carnet_ouvert.001|Camera.004|Camera|roller3|Take 001|BaseLayer|Camera|roller3
+  - first:
+      74: 772061130637188153
+    second: Carnet_ouvert.001|Camera.004|Camera|roller4.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: 620405357899834754
+    second: Carnet_ouvert.001|Camera.004|Camera|roller4|Take 001|BaseLayer|Camera|roller4
+  - first:
+      74: -5247484897730266008
+    second: Carnet_ouvert.001|Camera.004|Camera|roller5.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -1588909149000859691
+    second: Carnet_ouvert.001|Camera.004|Camera|roller5|Take 001|BaseLayer|Camera|roller5
+  - first:
+      74: 664583238774585349
+    second: Carnet_ouvert.001|Camera.004|Camera|roller|Take 001|BaseLayer|Camera|roller|T
+  - first:
+      74: 1687788405809231663
+    second: Carnet_ouvert.001|Camera.004|Camera|tube_down|Take 001|BaseLayer|Camera|tube_
+  - first:
+      74: -5850415772201771637
+    second: Carnet_ouvert.001|Camera.005|Camera|armrest_2|Take 001|BaseLayer|Camera|armre
+  - first:
+      74: 7869036453489551516
+    second: Carnet_ouvert.001|Camera.005|Camera|armrest_down_2|Take 001|BaseLayer|Camera|
+  - first:
+      74: 2503867897006535983
+    second: Carnet_ouvert.001|Camera.005|Camera|armrest_down|Take 001|BaseLayer|Camera|ar
+  - first:
+      74: 6991595941289426021
+    second: Carnet_ouvert.001|Camera.005|Camera|armrest|Take 001|BaseLayer|Camera|armrest
+  - first:
+      74: -8622016763430938711
+    second: Carnet_ouvert.001|Camera.005|Camera|Box_up|Take 001|BaseLayer|Camera|Box_up|T
+  - first:
+      74: 4128867523842263580
+    second: Carnet_ouvert.001|Camera.005|Camera|CameraAction.001|Camera|CameraAction.002
+  - first:
+      74: -3806737444823280233
+    second: Carnet_ouvert.001|Camera.005|Camera|Chair_down|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: 5426231488884723590
+    second: Carnet_ouvert.001|Camera.005|Camera|Chair_tube|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: 4391562186459850717
+    second: Carnet_ouvert.001|Camera.005|Camera|Chair_up|Take 001|BaseLayer|Camera|Chair_
+  - first:
+      74: -8896319090834434825
+    second: Carnet_ouvert.001|Camera.005|Camera|implement_2|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: 2392231380370399395
+    second: Carnet_ouvert.001|Camera.005|Camera|implement_3|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: 1553839800060659589
+    second: Carnet_ouvert.001|Camera.005|Camera|implement|Take 001|BaseLayer|Camera|imple
+  - first:
+      74: 6166508029351438345
+    second: Carnet_ouvert.001|Camera.005|Camera|locker|Take 001|BaseLayer|Camera|locker|T
+  - first:
+      74: -3570319759518610441
+    second: Carnet_ouvert.001|Camera.005|Camera|roller.001|Take 001|BaseLayer|Camera|roll
+  - first:
+      74: 5517117449327054019
+    second: Carnet_ouvert.001|Camera.005|Camera|roller2.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -6201625203636398852
+    second: Carnet_ouvert.001|Camera.005|Camera|roller2|Take 001|BaseLayer|Camera|roller2
+  - first:
+      74: 8832766291059831894
+    second: Carnet_ouvert.001|Camera.005|Camera|roller3.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: 6306780698102246036
+    second: Carnet_ouvert.001|Camera.005|Camera|roller3|Take 001|BaseLayer|Camera|roller3
+  - first:
+      74: -3878011935975216930
+    second: Carnet_ouvert.001|Camera.005|Camera|roller4.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -1937195504042486941
+    second: Carnet_ouvert.001|Camera.005|Camera|roller4|Take 001|BaseLayer|Camera|roller4
+  - first:
+      74: 4370782371717950136
+    second: Carnet_ouvert.001|Camera.005|Camera|roller5.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: 57471245840680723
+    second: Carnet_ouvert.001|Camera.005|Camera|roller5|Take 001|BaseLayer|Camera|roller5
+  - first:
+      74: 9021858584670167594
+    second: Carnet_ouvert.001|Camera.005|Camera|roller|Take 001|BaseLayer|Camera|roller|T
+  - first:
+      74: -1940776641748011671
+    second: Carnet_ouvert.001|Camera.005|Camera|tube_down|Take 001|BaseLayer|Camera|tube_
+  - first:
+      74: 8907013751618786434
+    second: Carnet_ouvert.001|Camera.006|Camera|armrest_2|Take 001|BaseLayer|Camera|armre
+  - first:
+      74: 8452250686258227307
+    second: Carnet_ouvert.001|Camera.006|Camera|armrest_down_2|Take 001|BaseLayer|Camera|
+  - first:
+      74: -2073646421262880939
+    second: Carnet_ouvert.001|Camera.006|Camera|armrest_down|Take 001|BaseLayer|Camera|ar
+  - first:
+      74: -7781318502737312334
+    second: Carnet_ouvert.001|Camera.006|Camera|armrest|Take 001|BaseLayer|Camera|armrest
+  - first:
+      74: -2155596792735504630
+    second: Carnet_ouvert.001|Camera.006|Camera|Box_up|Take 001|BaseLayer|Camera|Box_up|T
+  - first:
+      74: -7490043984808463068
+    second: Carnet_ouvert.001|Camera.006|Camera|CameraAction|Camera|CameraAction
+  - first:
+      74: 6120743847209197945
+    second: Carnet_ouvert.001|Camera.006|Camera|Chair_down|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: 1166649023835645863
+    second: Carnet_ouvert.001|Camera.006|Camera|Chair_tube|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: 2388824028022803493
+    second: Carnet_ouvert.001|Camera.006|Camera|Chair_up|Take 001|BaseLayer|Camera|Chair_
+  - first:
+      74: 8960470146619721603
+    second: Carnet_ouvert.001|Camera.006|Camera|implement_2|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: 4768931037340477805
+    second: Carnet_ouvert.001|Camera.006|Camera|implement_3|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: 2693378660163386769
+    second: Carnet_ouvert.001|Camera.006|Camera|implement|Take 001|BaseLayer|Camera|imple
+  - first:
+      74: -6099402426693723079
+    second: Carnet_ouvert.001|Camera.006|Camera|locker|Take 001|BaseLayer|Camera|locker|T
+  - first:
+      74: -6495171891602872766
+    second: Carnet_ouvert.001|Camera.006|Camera|roller.001|Take 001|BaseLayer|Camera|roll
+  - first:
+      74: -2154557165451511809
+    second: Carnet_ouvert.001|Camera.006|Camera|roller2.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -1147142535700840300
+    second: Carnet_ouvert.001|Camera.006|Camera|roller2|Take 001|BaseLayer|Camera|roller2
+  - first:
+      74: -7052724466378161153
+    second: Carnet_ouvert.001|Camera.006|Camera|roller3.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -3550070618029135849
+    second: Carnet_ouvert.001|Camera.006|Camera|roller3|Take 001|BaseLayer|Camera|roller3
+  - first:
+      74: -4691778862455217742
+    second: Carnet_ouvert.001|Camera.006|Camera|roller4.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: 2395716513105233020
+    second: Carnet_ouvert.001|Camera.006|Camera|roller4|Take 001|BaseLayer|Camera|roller4
+  - first:
+      74: -8290450627019340831
+    second: Carnet_ouvert.001|Camera.006|Camera|roller5.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -5025051584497516845
+    second: Carnet_ouvert.001|Camera.006|Camera|roller5|Take 001|BaseLayer|Camera|roller5
+  - first:
+      74: -1379997868394197
+    second: Carnet_ouvert.001|Camera.006|Camera|roller|Take 001|BaseLayer|Camera|roller|T
+  - first:
+      74: 619827683004487944
+    second: Carnet_ouvert.001|Camera.006|Camera|tube_down|Take 001|BaseLayer|Camera|tube_
+  - first:
+      74: 3796991733914874772
+    second: Carnet_ouvert.001|Camera.007|Camera|armrest_2|Take 001|BaseLayer|Camera|armre
+  - first:
+      74: -7148086676512804109
+    second: Carnet_ouvert.001|Camera.007|Camera|armrest_down_2|Take 001|BaseLayer|Camera|
+  - first:
+      74: -1402267487211460410
+    second: Carnet_ouvert.001|Camera.007|Camera|armrest_down|Take 001|BaseLayer|Camera|ar
+  - first:
+      74: 3172382016906932134
+    second: Carnet_ouvert.001|Camera.007|Camera|armrest|Take 001|BaseLayer|Camera|armrest
+  - first:
+      74: 50336983947266879
+    second: Carnet_ouvert.001|Camera.007|Camera|Box_up|Take 001|BaseLayer|Camera|Box_up|T
+  - first:
+      74: -891749399107680195
+    second: Carnet_ouvert.001|Camera.007|Camera|CameraAction.004|Camera|CameraAction.004
+  - first:
+      74: 7129454461373657288
+    second: Carnet_ouvert.001|Camera.007|Camera|Chair_down|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: 4056329187490537639
+    second: Carnet_ouvert.001|Camera.007|Camera|Chair_tube|Take 001|BaseLayer|Camera|Chai
+  - first:
+      74: 1690682806299133315
+    second: Carnet_ouvert.001|Camera.007|Camera|Chair_up|Take 001|BaseLayer|Camera|Chair_
+  - first:
+      74: 3755697591503321586
+    second: Carnet_ouvert.001|Camera.007|Camera|implement_2|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: -4446104670007759698
+    second: Carnet_ouvert.001|Camera.007|Camera|implement_3|Take 001|BaseLayer|Camera|imp
+  - first:
+      74: -4474543562761535076
+    second: Carnet_ouvert.001|Camera.007|Camera|implement|Take 001|BaseLayer|Camera|imple
+  - first:
+      74: 2565356822217005979
+    second: Carnet_ouvert.001|Camera.007|Camera|locker|Take 001|BaseLayer|Camera|locker|T
+  - first:
+      74: -4410127973927141600
+    second: Carnet_ouvert.001|Camera.007|Camera|roller.001|Take 001|BaseLayer|Camera|roll
+  - first:
+      74: -1816980889985500025
+    second: Carnet_ouvert.001|Camera.007|Camera|roller2.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: 8431346381436096836
+    second: Carnet_ouvert.001|Camera.007|Camera|roller2|Take 001|BaseLayer|Camera|roller2
+  - first:
+      74: -3218375647869556561
+    second: Carnet_ouvert.001|Camera.007|Camera|roller3.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -6194965773869884387
+    second: Carnet_ouvert.001|Camera.007|Camera|roller3|Take 001|BaseLayer|Camera|roller3
+  - first:
+      74: -3028882360903720203
+    second: Carnet_ouvert.001|Camera.007|Camera|roller4.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -2985280655305155212
+    second: Carnet_ouvert.001|Camera.007|Camera|roller4|Take 001|BaseLayer|Camera|roller4
+  - first:
+      74: 7451847966094110427
+    second: Carnet_ouvert.001|Camera.007|Camera|roller5.001|Take 001|BaseLayer|Camera|rol
+  - first:
+      74: -6688739728014850637
+    second: Carnet_ouvert.001|Camera.007|Camera|roller5|Take 001|BaseLayer|Camera|roller5
+  - first:
+      74: -571740663744566876
+    second: Carnet_ouvert.001|Camera.007|Camera|roller|Take 001|BaseLayer|Camera|roller|T
+  - first:
+      74: -7511131005311455025
+    second: Carnet_ouvert.001|Camera.007|Camera|tube_down|Take 001|BaseLayer|Camera|tube_
+  - first:
+      74: 3524262363793644192
+    second: Carnet_ouvert.001|Camera|Camera|armrest_2|Take 001|BaseLayer|Camera|armrest_2
+  - first:
+      74: -5718036859254923178
+    second: Carnet_ouvert.001|Camera|Camera|armrest_2|Take 001|BaseLayer|Camera|armrest_2|Tak
+  - first:
+      74: 3093453172326995529
+    second: Carnet_ouvert.001|Camera|Camera|armrest_down_2|Take 001|BaseLayer|Camera|armr
+  - first:
+      74: -3916878136428085952
+    second: Carnet_ouvert.001|Camera|Camera|armrest_down_2|Take 001|BaseLayer|Camera|armrest_
+  - first:
+      74: 2911554370683671219
+    second: Carnet_ouvert.001|Camera|Camera|armrest_down|Take 001|BaseLayer|Camera|armres
+  - first:
+      74: -460943992247612532
+    second: Carnet_ouvert.001|Camera|Camera|armrest_down|Take 001|BaseLayer|Camera|armrest_do
+  - first:
+      74: -3445304580586349422
+    second: Carnet_ouvert.001|Camera|Camera|armrest|Take 001|BaseLayer|Camera|armrest|Tak
+  - first:
+      74: 4652158358481950305
+    second: Carnet_ouvert.001|Camera|Camera|armrest|Take 001|BaseLayer|Camera|armrest|Take
+      00
+  - first:
+      74: -4389707333367044375
+    second: 'Carnet_ouvert.001|Camera|Camera|Box_up|Take 001|BaseLayer|Camera|Box_up|Take '
+  - first:
+      74: -5834043102527424229
+    second: Carnet_ouvert.001|Camera|Camera|Box_up|Take 001|BaseLayer|Camera|Box_up|Take
+      001|
+  - first:
+      74: -1420082562284723590
+    second: Carnet_ouvert.001|Camera|Camera|CameraAction|Camera|CameraAction
+  - first:
+      74: -2794688679541891668
+    second: Carnet_ouvert.001|Camera|Camera|CameraAction|Camera|CameraAction.001
+  - first:
+      74: 5641163086191131717
+    second: Carnet_ouvert.001|Camera|Camera|Chair_down|Take 001|BaseLayer|Camera|Chair_do
+  - first:
+      74: 4205959012503034280
+    second: Carnet_ouvert.001|Camera|Camera|Chair_down|Take 001|BaseLayer|Camera|Chair_down|T
+  - first:
+      74: 7632908590175288753
+    second: Carnet_ouvert.001|Camera|Camera|Chair_tube|Take 001|BaseLayer|Camera|Chair_tu
+  - first:
+      74: -5992602493370723342
+    second: Carnet_ouvert.001|Camera|Camera|Chair_tube|Take 001|BaseLayer|Camera|Chair_tube|T
+  - first:
+      74: 6498357207758120339
+    second: Carnet_ouvert.001|Camera|Camera|Chair_up|Take 001|BaseLayer|Camera|Chair_up|T
+  - first:
+      74: 6438526488754440627
+    second: 'Carnet_ouvert.001|Camera|Camera|Chair_up|Take 001|BaseLayer|Camera|Chair_up|Take '
+  - first:
+      74: -8975062154513922365
+    second: Carnet_ouvert.001|Camera|Camera|implement_2|Take 001|BaseLayer|Camera|impleme
+  - first:
+      74: -284479354906147629
+    second: Carnet_ouvert.001|Camera|Camera|implement_2|Take 001|BaseLayer|Camera|implement_2
+  - first:
+      74: 2805761932439330858
+    second: Carnet_ouvert.001|Camera|Camera|implement_3|Take 001|BaseLayer|Camera|impleme
+  - first:
+      74: 5083924334469641264
+    second: Carnet_ouvert.001|Camera|Camera|implement_3|Take 001|BaseLayer|Camera|implement_3
+  - first:
+      74: -4977936609645179991
+    second: Carnet_ouvert.001|Camera|Camera|implement|Take 001|BaseLayer|Camera|implement
+  - first:
+      74: -1036107424464308017
+    second: Carnet_ouvert.001|Camera|Camera|implement|Take 001|BaseLayer|Camera|implement|Tak
+  - first:
+      74: 1813346444194168099
+    second: 'Carnet_ouvert.001|Camera|Camera|locker|Take 001|BaseLayer|Camera|locker|Take '
+  - first:
+      74: -3896845644593432578
+    second: Carnet_ouvert.001|Camera|Camera|locker|Take 001|BaseLayer|Camera|locker|Take
+      001|
+  - first:
+      74: 8288583570237520156
+    second: Carnet_ouvert.001|Camera|Camera|roller.001|Take 001|BaseLayer|Camera|roller.0
+  - first:
+      74: 334768373334096181
+    second: Carnet_ouvert.001|Camera|Camera|roller.001|Take 001|BaseLayer|Camera|roller.001|T
+  - first:
+      74: 1726862822698963821
+    second: Carnet_ouvert.001|Camera|Camera|roller2.001|Take 001|BaseLayer|Camera|roller2.001
+  - first:
+      74: -8996746491647977314
+    second: Carnet_ouvert.001|Camera|Camera|roller2.001|Take 001|BaseLayer|Camera|roller2.002
+  - first:
+      74: -1803253228033439243
+    second: Carnet_ouvert.001|Camera|Camera|roller2|Take 001|BaseLayer|Camera|roller2|Tak
+  - first:
+      74: -4350595699108128785
+    second: Carnet_ouvert.001|Camera|Camera|roller2|Take 001|BaseLayer|Camera|roller2|Take
+      00
+  - first:
+      74: 7963944807032514259
+    second: Carnet_ouvert.001|Camera|Camera|roller3.001|Take 001|BaseLayer|Camera|roller3.001
+  - first:
+      74: 1920003390451699349
+    second: Carnet_ouvert.001|Camera|Camera|roller3.001|Take 001|BaseLayer|Camera|roller3.002
+  - first:
+      74: -2778708390087831759
+    second: Carnet_ouvert.001|Camera|Camera|roller3|Take 001|BaseLayer|Camera|roller3|Tak
+  - first:
+      74: 8917106171609776138
+    second: Carnet_ouvert.001|Camera|Camera|roller3|Take 001|BaseLayer|Camera|roller3|Take
+      00
+  - first:
+      74: 182043108203202671
+    second: Carnet_ouvert.001|Camera|Camera|roller4.001|Take 001|BaseLayer|Camera|roller4.001
+  - first:
+      74: -313665029923405729
+    second: Carnet_ouvert.001|Camera|Camera|roller4.001|Take 001|BaseLayer|Camera|roller4.002
+  - first:
+      74: 1347416917491190591
+    second: Carnet_ouvert.001|Camera|Camera|roller4|Take 001|BaseLayer|Camera|roller4|Tak
+  - first:
+      74: -4175196168649371674
+    second: Carnet_ouvert.001|Camera|Camera|roller4|Take 001|BaseLayer|Camera|roller4|Take
+      00
+  - first:
+      74: 532192679298703617
+    second: Carnet_ouvert.001|Camera|Camera|roller5.001|Take 001|BaseLayer|Camera|roller5.001
+  - first:
+      74: 2426548185631004094
+    second: Carnet_ouvert.001|Camera|Camera|roller5.001|Take 001|BaseLayer|Camera|roller5.002
+  - first:
+      74: 6572693924338554779
+    second: Carnet_ouvert.001|Camera|Camera|roller5|Take 001|BaseLayer|Camera|roller5|Tak
+  - first:
+      74: -8208541248814692283
+    second: Carnet_ouvert.001|Camera|Camera|roller5|Take 001|BaseLayer|Camera|roller5|Take
+      00
+  - first:
+      74: -6106245685497915799
+    second: 'Carnet_ouvert.001|Camera|Camera|roller|Take 001|BaseLayer|Camera|roller|Take '
+  - first:
+      74: -1579231804736607008
+    second: Carnet_ouvert.001|Camera|Camera|roller|Take 001|BaseLayer|Camera|roller|Take
+      001|
+  - first:
+      74: -3715961574917631198
+    second: Carnet_ouvert.001|Camera|Camera|tube_down|Take 001|BaseLayer|Camera|tube_down
+  - first:
+      74: -5681349774813777249
+    second: Carnet_ouvert.001|Camera|Camera|tube_down|Take 001|BaseLayer|Camera|tube_down|Tak
+  - first:
+      74: 4731471657978288995
+    second: Carnet_ouvert.001|Carnet_ouvert.001Action
+  - first:
+      74: -2389176827507276440
+    second: Carnet_ouvert.001|Chair_down|Take 001|BaseLayer
+  - first:
+      74: 423485296340012104
+    second: Carnet_ouvert.001|Chair_tube|Take 001|BaseLayer
+  - first:
+      74: 7694651090949879126
+    second: Carnet_ouvert.001|Chair_up|Take 001|BaseLayer
+  - first:
+      74: 225221311393404610
+    second: Carnet_ouvert.001|implement_2|Take 001|BaseLayer
+  - first:
+      74: -4840294488776737831
+    second: Carnet_ouvert.001|implement_3|Take 001|BaseLayer
+  - first:
+      74: -6221368371142781493
+    second: Carnet_ouvert.001|implement|Take 001|BaseLayer
+  - first:
+      74: 864932940454564864
+    second: Carnet_ouvert.001|locker|Take 001|BaseLayer
+  - first:
+      74: 8754738387494067988
+    second: Carnet_ouvert.001|roller.001|Take 001|BaseLayer
+  - first:
+      74: -8327392447963350350
+    second: Carnet_ouvert.001|roller2.001|Take 001|BaseLayer
+  - first:
+      74: 7676208320563898432
+    second: Carnet_ouvert.001|roller2|Take 001|BaseLayer
+  - first:
+      74: -6902846456084807673
+    second: Carnet_ouvert.001|roller3.001|Take 001|BaseLayer
+  - first:
+      74: 518637695454710896
+    second: Carnet_ouvert.001|roller3|Take 001|BaseLayer
+  - first:
+      74: 2087664740901603442
+    second: Carnet_ouvert.001|roller4.001|Take 001|BaseLayer
+  - first:
+      74: 3806182691903090745
+    second: Carnet_ouvert.001|roller4|Take 001|BaseLayer
+  - first:
+      74: -8374831566922388853
+    second: Carnet_ouvert.001|roller5.001|Take 001|BaseLayer
+  - first:
+      74: -3060920169657168572
+    second: Carnet_ouvert.001|roller5|Take 001|BaseLayer
+  - first:
+      74: -4147951882522206631
+    second: Carnet_ouvert.001|roller|Take 001|BaseLayer
+  - first:
+      74: -2892788124842212688
+    second: Carnet_ouvert.001|tube_down|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Appareil
+    second: {fileID: -1382409520213082313, guid: fc93f3592f31ab9429467133e78f42e0, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Appareil.001
+    second: {fileID: 2117180826140085664, guid: fc93f3592f31ab9429467133e78f42e0, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
