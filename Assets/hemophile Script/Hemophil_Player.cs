@@ -91,12 +91,9 @@ public class Hemophil_Player : MonoBehaviour
         else //---------------------- auto move to take an object
         {
             Vector3 offset = expectedPositionToTake.position - transform.position;
-
+            offset.y = 0;
             Quaternion playerDir = transform.rotation;
             Quaternion expectedDir = expectedPositionToTake.rotation;
-
-            _playerDir = playerDir.eulerAngles.y;
-            _expectedDir = expectedDir.eulerAngles.y;
 
             Vector3 dist = ObjectTolookAtDuringTurn.transform.position - objectToTake.transform.position;
             dist.y = 0;
@@ -115,19 +112,18 @@ public class Hemophil_Player : MonoBehaviour
                 Vector3 pos = new Vector3(transform.localPosition.x, transform.position.y, transform.localPosition.z);
                 ObjectTolookAtDuringTurn.transform.position = pos;
                 ObjectTolookAtDuringTurn.transform.rotation = transform.rotation;
-                ObjectTolookAtDuringTurn.transform.Translate(Vector3.forward, Space.Self);
+                ObjectTolookAtDuringTurn.transform.Translate(Vector3.forward * 1, Space.Self);
                 Debug.Log("1 : deplacement jusqu'a la cible");
             }
             else if (distance >= toleranceAngle)
             {
-                Vector3 pos = objectToTake.transform.position;
-                pos.y = ObjectTolookAtDuringTurn.transform.position.y;
-                ObjectTolookAtDuringTurn.transform.position = Vector3.Lerp(ObjectTolookAtDuringTurn.transform.position, pos, 0.05f);
+                Vector3 posToWatch = new Vector3( objectToTake.transform.position.x, transform.position.y, objectToTake.transform.position.z);
+                ObjectTolookAtDuringTurn.transform.position = Vector3.Lerp(ObjectTolookAtDuringTurn.transform.position, posToWatch, 0.8f);
                 transform.LookAt(ObjectTolookAtDuringTurn.transform, Vector3.up);
 
                 Debug.Log("2 : rotation en direction de la cible");
 
-                //transform.rotation = Quaternion.Lerp(playerDir, expectedDir, Time.deltaTime * 5);
+
             }
             else if (!animator.GetCurrentAnimatorStateInfo(0).IsName("take"))
             {
@@ -136,6 +132,7 @@ public class Hemophil_Player : MonoBehaviour
                 Debug.Log("3 : animation, destruction apres delai");
 
             }
+
         }
     }
 
