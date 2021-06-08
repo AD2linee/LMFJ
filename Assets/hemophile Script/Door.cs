@@ -11,7 +11,8 @@ public class Door : MonoBehaviour
     {
         if (other == activator)
         {
-            Doors.SetBool("Doors",true);
+            Debug.Log(Doors);
+            Doors.SetBool("Open", true);
         }
     }
 
@@ -19,7 +20,7 @@ public class Door : MonoBehaviour
     {
         if (other == activator)
         {
-            Doors.SetBool("close",false);
+            Doors.SetBool("Open",false);
         }
     }
 }
