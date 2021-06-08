@@ -14,6 +14,7 @@ public class CameraManager : MonoBehaviour
         {
             cam.gameObject.transform.position = CamPositions[identity].transform.position;
             cam.gameObject.transform.rotation = CamPositions[identity].transform.rotation;
+            cam.gameObject.transform.rotation = CamPositions[identity].transform.rotation;
         }
     }
 }
